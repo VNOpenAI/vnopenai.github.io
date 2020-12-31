@@ -1,0 +1,3 @@
+[submodule "themes/vnopenai.org-themes"]
+	path = themes/vnopenai.org-themes
+	url = https://github.com/VNOpenAI-Profiles/vnopenai.org-themes
