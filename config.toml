@@ -1,0 +1,125 @@
+############################ Default configuration #########################
+baseURL = "https://vnopenai.org/"
+languageCode = "en-us"
+# site title 
+title = "VNOpenAI | We build Open Source AI Projects in Vietnam"
+# theme
+theme = "vnopenai.org-themes"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+
+########################## Plugings ######################################
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+########################### Navigation ###################################
+
+# main menu
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 1
+
+[[menu.main]]
+URL = "projects"
+name = "Projects"
+weight = 2
+
+# footer menu
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 1
+
+[[menu.footer]]
+URL = "projects"
+name = "Projects"
+weight = 2
+
+
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Home"
+# logo
+logo = "images/logo.svg"
+# meta data
+author = "VNOpenAI"
+description = "We build Open Source AI Projects in Vietnam"
+# google tag manager
+google_tag_manager = "" # your id
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+# copyright
+copyright = "&copy; 2020 [VNOpenAI](https://vnopenai.org) All Rights Reserved"
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# search
+[params.search]
+enable = true
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+
+####################### banner #######################################
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+title = "Hello! We are VNOpenAI.</br> We build Open Source AI Projects in Vietnam."
+image = "images/banner/vietnam.jpg"
+
+
+######################## call to action ###############################
+[params.cta]
+enable = true
+image = "images/email.svg"
+title = "Want to know more"
+description = "Contact us and ask any question."
+[params.cta.button]
+enable = true
+label = "Go to Contact Page"
+link = "/contact/"
+
+
+############################## Social Site ##########################
+# [[params.social]]
+# icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+# link = "#"
+# [[params.social]]
+# icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+# link = "#"
+[[params.social]]
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+link = "https://github.com/VNOpenAI"
+# [[params.social]]
+# icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+# link = "#"

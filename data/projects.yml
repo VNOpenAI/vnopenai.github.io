@@ -1,0 +1,14 @@
+projects:
+
+  - title: Applications
+    project:
+    - name: Updating
+      image: "/images/projects/updating.jpg"
+      link: "#"
+
+  - title: Models
+    project:
+    - name: Updating
+      image: "/images/projects/updating.jpg"
+      link: "#"
+  
