@@ -102,7 +102,7 @@ image = "images/banner/vietnam.jpg"
 [params.cta]
 enable = true
 image = "images/email.svg"
-title = "Want to know more"
+title = "Want to know more?"
 description = "Contact us and ask any question."
 [params.cta.button]
 enable = true

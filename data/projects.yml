@@ -4,11 +4,11 @@ projects:
     project:
     - name: Updating
       image: "/images/projects/updating.jpg"
-      link: "#"
+      link: ""
 
   - title: Models
     project:
     - name: Updating
       image: "/images/projects/updating.jpg"
-      link: "#"
+      link: ""
   
