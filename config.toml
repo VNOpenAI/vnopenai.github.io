@@ -94,14 +94,14 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hello! We are VNOpenAI.</br> We build Open Source AI projects in Vietnam."
-image = "images/banner/vietnam.jpg"
+title = "Hello! We are <b>VNOpenAI.</b></br> We build Open Source AI projects in Vietnam."
+image = "images/globe.svg"
 
 
 ######################## call to action ###############################
 [params.cta]
 enable = true
-image = "images/email.svg"
+# image = "images/email.svg"
 title = "Want to know more?"
 description = "Contact us and ask any question."
 [params.cta.button]
@@ -123,3 +123,7 @@ link = "https://github.com/VNOpenAI"
 # [[params.social]]
 # icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
 # link = "#"
+
+
+[markup.goldmark.renderer]
+unsafe= true
