@@ -9,7 +9,7 @@ projects:
       - 
         image: "/images/projects/them-dau.png"
         link: "https://github.com/VNOpenAI/vn-accent"
-        name: "VN Tone - Engine Thêm dấu tiếng Việt"
+        name: "VN Tone - Engine Thêm dấu tiếng Việt (Under development)"
       - 
         image: "https://github.com/VNOpenAI/pushup-counter-app/raw/master/images/demo-video.png"
         link: "https://github.com/VNOpenAI/pushup-counter-app"
