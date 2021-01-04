@@ -1,14 +1,20 @@
-projects:
-
-  - title: Applications
-    project:
-    - name: Updating
-      image: "/images/projects/updating.jpg"
-      link: ""
-
-  - title: Models
-    project:
-    - name: Updating
-      image: "/images/projects/updating.jpg"
-      link: ""
-  
+--- 
+projects: 
+  - 
+    project: 
+      - 
+        image: "/images/projects/vnaidr.png"
+        link: "https://github.com/VNOpenAI/vn-aidr"
+        name: "VN AIDr - Medical image processing (Under development)"
+      - 
+        image: "https://github.com/VNOpenAI/pushup-counter-app/raw/master/images/demo-video.png"
+        link: "https://github.com/VNOpenAI/pushup-counter-app"
+        name: "PushUp Counter App (Under development)"
+    title: "Open source"
+  - 
+    project: 
+      - 
+        image: /images/projects/blazepose.png
+        link: "https://github.com/VNOpenAI/tf-blazepose"
+        name: "BlazePose: On-device Real-time Body Pose tracking"
+    title: "Paper reproducing"

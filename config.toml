@@ -73,7 +73,7 @@ description = "We build Open Source AI Projects in Vietnam"
 # google tag manager
 google_tag_manager = "" # your id
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/f/xpzokarq"
 # copyright
 copyright = "&copy; 2020 [VNOpenAI](https://vnopenai.org) All Rights Reserved"
 

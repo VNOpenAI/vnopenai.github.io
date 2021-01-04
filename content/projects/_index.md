@@ -1,5 +1,5 @@
 ---
 title: "Projects"
 draft: false
-description : "this is meta description"
+description : "Open source projects from VNOpenAI"
 ---
