@@ -1,6 +1,6 @@
 +++
 title = "Hello World!"
-image = "/images/logo.svg"
+image = "/images/logo-with-slogan.svg"
 author = "VNOpenAI"
 date = 2021-01-01T00:00:00Z
 description = "Hello world from VNOpenAI."

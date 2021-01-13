@@ -66,7 +66,7 @@ weight = 2
 # home
 home = "Home"
 # logo
-logo = "images/logo.svg"
+logo = "images/logo-with-slogan.svg"
 # meta data
 author = "VNOpenAI"
 description = "We build Open Source AI Projects in Vietnam"
