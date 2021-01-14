@@ -2,7 +2,7 @@
 baseURL = "https://vnopenai.org/"
 languageCode = "en-us"
 # site title 
-title = "VNOpenAI | We build Open Source AI Projects in Vietnam"
+title = "VNOpenAI | We build Open Source AI Projects"
 # theme
 theme = "vnopenai.org-themes"
 # post pagination
@@ -69,9 +69,9 @@ home = "Home"
 logo = "images/logo-with-slogan.svg"
 # meta data
 author = "VNOpenAI"
-description = "We build Open Source AI Projects in Vietnam"
+description = "VNOpenAI is a Community of AI Researchers and Engineers in Vietnam. We build open projects for academic research and applied AI."
 # google tag manager
-google_tag_manager = "" # your id
+google_tag_manager = "G-FZQKNBBTJM" # your id
 # contact form action
 contact_form_action = "https://formspree.io/f/xpzokarq"
 # copyright
@@ -79,7 +79,7 @@ copyright = "&copy; 2020 [VNOpenAI](https://vnopenai.org) All Rights Reserved"
 
 # preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "" # use png, jpg, svg or gif format
 
 # search
