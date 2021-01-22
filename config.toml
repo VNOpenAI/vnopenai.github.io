@@ -94,7 +94,12 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hello! We are <b>VNOpenAI.</b></br> We build Open Source AI projects in Vietnam."
+title = "Hello! We are <b>VNOpenAI.</b></br> We build Open Source AI."
+image = "images/globe-dark.svg"
+
+####################### banner #######################################
+[params.wedo]
+bgImage = "images/banner/banner-bg.svg"
 image = "images/globe.svg"
 
 
