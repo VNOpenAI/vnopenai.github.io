@@ -45,9 +45,14 @@ name = "Contact"
 weight = 1
 
 [[menu.main]]
+URL = "our-team"
+name = "Our Team"
+weight = 2
+
+[[menu.main]]
 URL = "projects"
 name = "Projects"
-weight = 2
+weight = 3
 
 # footer menu
 [[menu.footer]]
