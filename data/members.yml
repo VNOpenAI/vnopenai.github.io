@@ -4,19 +4,19 @@ members:
     name: "Viet-Anh Nguyen"
     title: "Founder/Engineer"
     image: "https://avatars.githubusercontent.com/u/18329471"
-    intro: "Blogger at [AIcurious.io](https://aicurious.io), B.S HUST<br> [Github](https://github.com/vietanhdev) | [LinkedIn](https://www.linkedin.com/in/vietanhdev/)"
+    intro: "Blogger at [AIcurious.io](https://aicurious.io), B.S HUST<br> [My Blog](https://aicurious.io) | [Github](https://github.com/vietanhdev) | [LinkedIn](https://www.linkedin.com/in/vietanhdev/)"
   - 
     name: "Thanh Tran-Tien"
     title: "AI and Control Engineer"
     image: "https://web.vnopenai.org/thanhtt/images/profile.png"
     intro: "B.S HUST<br>[Website](https://web.vnopenai.org/thanhtt/) | [Github](https://github.com/thanhtran98)"
   - 
-    name: "Chinh Do-Viet"
-    title: "AI and Control Engineer"
-    image: "https://avatars.githubusercontent.com/u/70321021"
-    intro: "B.S HUST<br>[Website](https://web.vnopenai.org/dovietchinh/) | [Github](https://github.com/dovietchinh)"
-  - 
     name: "Hung-Phi Dao-Cu"
     title: "AI and Control Engineer"
     image: "https://avatars.githubusercontent.com/u/59147911"
     intro: "B.S HUST<br>[Website](https://web.vnopenai.org/phidch/) | [Github](https://github.com/phidch)"
+  - 
+    name: "Chinh Do-Viet"
+    title: "AI and Control Engineer"
+    image: "https://avatars.githubusercontent.com/u/70321021"
+    intro: "B.S HUST<br>[Github](https://github.com/dovietchinh)"
