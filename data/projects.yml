@@ -3,13 +3,13 @@ projects:
   - 
     project:
       - 
-        image: "/images/projects/vnaidr.png"
+        image: "https://raw.githubusercontent.com/VNOpenAI/vn-aidr/master/screenshots/screen.png"
         link: "https://dr.vnopenai.org/"
-        name: "VN AIDr - Medical image processing"
+        name: "VN AIDr - Open source medical image processing platform with deep learning"
       - 
         image: "/images/projects/them-dau.png"
         link: "https://github.com/VNOpenAI/vn-accent"
-        name: "VN Tone - Engine Thêm dấu tiếng Việt"
+        name: "VN Accent - Thêm dấu tiếng Việt cho báo cáo y tế - Optimize typing speed for medical documents"
       - 
         image: "https://github.com/VNOpenAI/pushup-counter-app/raw/master/images/demo-video.png"
         link: "https://github.com/VNOpenAI/pushup-counter-app"
