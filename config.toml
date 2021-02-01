@@ -99,7 +99,7 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hello! We are <b>VNOpenAI.</b></br> We build Open Source AI."
+title = "Hello! We are <b>VNOpenAI.</b></br>We build AI-powered projects."
 image = "images/globe-dark.svg"
 
 ####################### banner #######################################
