@@ -13,7 +13,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="banner-bg.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="0.21373183"
      inkscape:cx="-100.59337"
      inkscape:cy="228.14349"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="Group_1647"
      inkscape:document-rotation="0" />
@@ -65,7 +65,7 @@
        d="M283.427,815.4a143.6,143.6,0,0,0,24.9-22.014c70.712-79.335,129.35-74.161,187.989-31.044s213.859,20.7,181.09-155.22S792.962,496.742,832.63,436.379c18.971-28.974,21.731-55.19,16.9-77.265H283.069S283.219,815.2,283.427,815.4Z"
        transform="translate(-2188.205 602.887)"
        fill="#f2f2f2"
-       style="fill:#599cc6;fill-opacity:1" />
+       style="fill:#e6e6e6;fill-opacity:1" />
     <path
        id="Path_29802"
        data-name="Path 29802"
