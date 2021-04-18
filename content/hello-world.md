@@ -9,9 +9,8 @@ type = "post"
 
 +++
 
+VNOpenAI was established on **January 1, 2021**, brings together young engineers from Vietnam, who are working in the field of software development and artificial intelligence, with the goal of building valuable open-source projects with AI and robotics technologies.
 
-VNOpenAI được thành lập ngày **01/01/2021** tập hợp các bạn trẻ, kĩ sư, nhà nghiên cứu tại Việt Nam, đang làm việc trong lĩnh vực phần mềm và trí tuệ nhân tạo, với mục tiêu xây dựng các sản phẩm nguồn mở có ứng dụng trí tuệ nhân tạo phục vụ mục đích học tập, nghiên cứu, cũng như thương mại hoá.
+We believe that with open-source philosophy, we can contribute to promoting AI research and application in Vietnam, thereby bringing Vietnam on the world AI map. We believe that with the efforts of the whole community, we can catch up and move with the world in the 4th Industrial Revolution, with one of the core technologies being Artificial Intelligence.
 
-Chúng tôi mong muốn qua các dự án nguồn mở về AI có thể góp phần đẩy mạnh phong trào học tập, nghiên cứu và ứng dụng AI tại Việt Nam, từ đó đưa Việt Nam có tên trên bản đồ AI thế giới. Chúng tôi tin bằng sự nỗ lực của cả cộng đồng, chúng ta có thể bắt kịp và chuyển động cùng thế giới trong cuộc Cách mạng công nghiệp lần thứ 4, với một trong các công nghệ lõi là Trí tuệ nhân tạo.
-
-Liên hệ và tham gia cùng chúng tôi tại [Trang liên hệ](/contact/)!
+Contact us and join us on the [Contact Page](/contact/)!
