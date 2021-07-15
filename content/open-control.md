@@ -11,8 +11,6 @@ type = "post"
 
 # Open Control - Python Library for Control System
 
-<img src="https://vnopenai.org/images/robotics.svg">
-
 We've just released Open Control - a python package that implements basic algorithms for analysis and design of optimal feedback controllers.
 
 ### Features:
