@@ -47,7 +47,7 @@ pip install OpenControl
 
 Check version
 
-```python
+```
 python
 >>> import OpenControl 
 >>> OpenControl.__version__
