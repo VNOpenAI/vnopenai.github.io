@@ -9,8 +9,6 @@ type = "post"
 
 +++
 
-# Open Control - Python Library for Control System
-
 We've just released Open Control - a python package that implements basic algorithms for analysis and design of optimal feedback controllers.
 
 ### Features:
@@ -21,7 +19,7 @@ We've just released Open Control - a python package that implements basic algori
 - Off-policy, On-policy learning algorithms for linear/nonlinear systems
 - Experience replay algorithms for linear/nonlinear systems (TODO)
 
-# Learn Reinforcement Learning by the tutorial [notebook](https://colab.research.google.com/drive/10mYMDliuOZD5i-YqmD9noOL8JDhC6t3x#scrollTo=E7MYyIKnQDjr) and [examples](https://github.com/VNOpenAI/OpenControl/tree/master/examples) code.
+- **Learn Reinforcement Learning by the tutorial [notebook](https://colab.research.google.com/drive/10mYMDliuOZD5i-YqmD9noOL8JDhC6t3x#scrollTo=E7MYyIKnQDjr) and [examples](https://github.com/VNOpenAI/OpenControl/tree/master/examples) code.**
 
 OpenControl provides algorithms for wide range of system dynamics, including classical control module and reinforcement learning control systems with ADP module. For learning purpose, we recommend starting with our example code to [define a system](https://opencontrol.readthedocs.io/en/latest/system.html) and [run the simulation](https://opencontrol.readthedocs.io/en/latest/linCon.html).
 
@@ -59,8 +57,6 @@ python
 
 Please read the lastest version of our documentation [here](https://opencontrol.readthedocs.io/en/latest/intro.html)
 
-## How to contact us
+## How to contact OpenControl team?
 
 For any question, drop an email at **phi9b2@gmail.com**.
-
-Follow us on our website https://vnopenai.org/.
