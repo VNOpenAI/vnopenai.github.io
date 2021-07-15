@@ -1,5 +1,5 @@
 +++
-title = "Python Library for Control System"
+title = "OpenControl - Python Library for Control System"
 image = "/images/open-control.png"
 author = "VNOpenAI"
 date = 2021-07-05T00:00:00Z
