@@ -11,6 +11,10 @@ projects:
         link: "https://github.com/VNOpenAI/vn-accent"
         name: "VN Accent - Thêm dấu tiếng Việt cho báo cáo y tế - Optimize typing speed for medical documents"
       - 
+        image: "/images/open-control.png"
+        link: "/open-control/"
+        name: "OpenControl - Python Library for Control Systems"
+      - 
         image: "https://github.com/VNOpenAI/pushup-counter-app/raw/master/images/demo-video.png"
         link: "https://github.com/VNOpenAI/pushup-counter-app"
         name: "PushUp Counter App"
