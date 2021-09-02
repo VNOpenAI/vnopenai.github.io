@@ -2,7 +2,7 @@
 baseURL = "https://vnopenai.org/"
 languageCode = "en-us"
 # site title 
-title = "VNOpenAI | Together We Are Stronger"
+title = "VNOpenAI | Together We Are Stronger - Open-source Artificial Intelligence"
 # theme
 theme = "vnopenai.org-themes"
 # post pagination
@@ -74,13 +74,13 @@ home = "Home"
 logo = "images/logo-with-slogan.svg"
 # meta data
 author = "VNOpenAI"
-description = "VNOpenAI is a Community of AI Researchers and Engineers in Vietnam. We build open projects for academic research and applied AI."
+description = "VNOpenAI is an open-source team in Vietnam. We build open projects for academic research and applied AI."
 # google tag manager
 google_tag_manager = "G-FZQKNBBTJM" # your id
 # contact form action
 contact_form_action = "https://formspree.io/f/xpzokarq"
 # copyright
-copyright = "&copy; 2020 [VNOpenAI](https://vnopenai.org) All Rights Reserved"
+copyright = "&copy; 2021 [VNOpenAI](https://vnopenai.org) All Rights Reserved"
 
 # preloader
 [params.preloader]
@@ -99,7 +99,7 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hello! We are <b>VNOpenAI.</b></br>We build AI-powered projects."
+title = "Hello! We are <b>VNOpenAI.</b></br>We build Open-source AI-powered Solutions."
 image = "images/globe-dark.svg"
 
 ####################### banner #######################################
