@@ -4,7 +4,27 @@ members:
     name: "Viet-Anh Nguyen"
     title: "Founder/Engineer"
     image: "https://avatars.githubusercontent.com/u/18329471"
-    intro: "Blogger at [AIcurious.io](https://aicurious.io), B.S HUST<br> [My Blog](https://aicurious.io) | [Github](https://github.com/vietanhdev) | [LinkedIn](https://www.linkedin.com/in/vietanhdev/)"
+    intro: "[AIcurious.io](https://aicurious.io), Engineer HUST<br> [My Blog](https://aicurious.io) | [Github](https://github.com/vietanhdev) | [LinkedIn](https://www.linkedin.com/in/vietanhdev/)"
+  - 
+    name: "Khanh Pham-Dinh"
+    title: "DaisyKit Team"
+    image: "https://avatars.githubusercontent.com/u/24260166"
+    intro: "Engineer at [VinAI Research](https://vinai.io)<br> [Github](https://github.com/phamdinhkhanh) | [Blog](https://phamdinhkhanh.github.io/content)"
+  - 
+    name: "Cong Phase"
+    title: "DaisyKit Team"
+    image: "https://avatars.githubusercontent.com/u/33423127"
+    intro: "Engineer at [VinAI Research](https://vinai.io), B.E UIT<br> [Github](https://github.com/congphase) | [LinkedIn](https://www.linkedin.com/in/congphase/)"
+  - 
+    name: "Duc Huynh-Nguyen"
+    title: "DaisyKit Team"
+    image: "https://avatars.githubusercontent.com/u/81941213"
+    intro: "B.E UIT<br>[Github](https://github.com/ducnguyenhuynh) | [LinkedIn](https://www.linkedin.com/in/ducnguyenhuynh/)"
+  - 
+    name: "Thuc Pham"
+    title: "DaisyKit Team"
+    image: "/images/members/thuc.jpg"
+    intro: "B.S HUST<br>[Github](https://github.com/thuc248997) | [LinkedIn](https://www.linkedin.com/in/thuc-pham-807241132/)"
   - 
     name: "Thanh Tran-Tien"
     title: "AI and Control Engineer"

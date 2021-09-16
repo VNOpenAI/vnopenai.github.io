@@ -4,4 +4,4 @@ image = "/images/author/vietnam.jpg"
 description = ""
 +++
 
-We build Open Source AI Projects in Vietnam.
+We build open source AI in Vietnam.
