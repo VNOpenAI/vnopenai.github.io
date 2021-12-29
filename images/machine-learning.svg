@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="200.203px"
+   height="200.203px"
+   viewBox="0 0 200.203 200.203"
+   enable-background="new 0 0 200.203 200.203"
+   xml:space="preserve"
+   sodipodi:docname="machine-learning.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata51"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs49" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1853"
+   inkscape:window-height="1025"
+   id="namedview47"
+   showgrid="false"
+   inkscape:zoom="1.1788035"
+   inkscape:cx="100.1015"
+   inkscape:cy="100.1015"
+   inkscape:window-x="67"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g44"
+   transform="matrix(1.1481706,0,0,1.1669702,-14.342222,-11.394479)">
+	<polygon
+   points="155,95.735 48.333,142.569 102,70.235 48.333,95.735 102,120.569 48.333,48.901 "
+   id="polygon2"
+   style="fill:none;stroke:#3b2602;stroke-width:3" />
+	<g
+   id="g16">
+		<g
+   id="g8">
+			<circle
+   cx="101.667"
+   cy="72.318001"
+   r="16.223"
+   id="circle4"
+   style="fill:#e9eaeb" />
+			<circle
+   cx="101.667"
+   cy="72.318001"
+   r="9.3479996"
+   id="circle6"
+   style="fill:#ffaa16" />
+		</g>
+		<g
+   id="g14">
+			<circle
+   cx="101.667"
+   cy="119.152"
+   r="16.224001"
+   id="circle10"
+   style="fill:#e9eaeb" />
+			<circle
+   cx="101.667"
+   cy="119.152"
+   r="9.349"
+   id="circle12"
+   style="fill:#ffaa16" />
+		</g>
+	</g>
+	<g
+   id="g22">
+		<circle
+   cx="155"
+   cy="95.736"
+   r="16.224001"
+   id="circle18"
+   style="fill:#e9eaeb" />
+		<circle
+   cx="155"
+   cy="95.736"
+   r="9.349"
+   id="circle20"
+   style="fill:#ffaa16" />
+	</g>
+	<g
+   id="g42">
+		<g
+   id="g28">
+			<circle
+   cx="48.333"
+   cy="48.902"
+   r="16.224001"
+   id="circle24"
+   style="fill:#e9eaeb" />
+			<circle
+   cx="48.333"
+   cy="48.902"
+   r="9.349"
+   id="circle26"
+   style="fill:#ffaa16" />
+		</g>
+		<g
+   id="g34">
+			<circle
+   cx="48.333"
+   cy="95.736"
+   r="16.224001"
+   id="circle30"
+   style="fill:#e9eaeb" />
+			<circle
+   cx="48.333"
+   cy="95.736"
+   r="9.349"
+   id="circle32"
+   style="fill:#ffaa16" />
+		</g>
+		<g
+   id="g40">
+			<circle
+   cx="48.333"
+   cy="142.569"
+   r="16.225"
+   id="circle36"
+   style="fill:#e9eaeb" />
+			<circle
+   cx="48.333"
+   cy="142.569"
+   r="9.3500004"
+   id="circle38"
+   style="fill:#ffaa16" />
+		</g>
+	</g>
+</g>
+</svg>
