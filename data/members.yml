@@ -28,13 +28,13 @@ members:
   - 
     name: "Thanh Tran-Tien"
     title: "AI and Control Engineer"
-    image: "https://web.vnopenai.org/thanhtt/images/profile.png"
-    intro: "B.S HUST<br>[Website](https://web.vnopenai.org/thanhtt/) | [Github](https://github.com/thanhtran98)"
+    image: "https://web.vnopenai.github.io/thanhtt/images/profile.png"
+    intro: "B.S HUST<br>[Website](https://web.vnopenai.github.io/thanhtt/) | [Github](https://github.com/thanhtran98)"
   - 
     name: "Hung-Phi Dao-Cu"
     title: "AI and Control Engineer"
     image: "https://avatars.githubusercontent.com/u/59147911"
-    intro: "B.S HUST<br>[Website](https://web.vnopenai.org/phidch/) | [Github](https://github.com/phidch)"
+    intro: "B.S HUST<br>[Website](https://web.vnopenai.github.io/phidch/) | [Github](https://github.com/phidch)"
   - 
     name: "Chinh Do-Viet"
     title: "AI and Control Engineer"

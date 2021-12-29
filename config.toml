@@ -1,10 +1,10 @@
 ############################ Default configuration #########################
-baseURL = "https://vnopenai.org/"
+baseURL = "https://vnopenai.github.io/"
 languageCode = "en-us"
 # site title 
 title = "VNOpenAI | Together We Are Stronger - Open-source Artificial Intelligence"
 # theme
-theme = "vnopenai.org-themes"
+theme = "vnopenai.github.io-themes"
 # post pagination
 paginate = "5"
 # post excerpt
@@ -80,7 +80,7 @@ google_tag_manager = "G-FZQKNBBTJM" # your id
 # contact form action
 contact_form_action = "https://formspree.io/f/xpzokarq"
 # copyright
-copyright = "&copy; 2021 [VNOpenAI](https://vnopenai.org) All Rights Reserved"
+copyright = "&copy; 2021 [VNOpenAI](https://vnopenai.github.io) All Rights Reserved"
 
 # preloader
 [params.preloader]

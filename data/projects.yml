@@ -4,7 +4,7 @@ projects:
     project:
       - 
         image: "https://raw.githubusercontent.com/VNOpenAI/vn-aidr/master/screenshots/screen.png"
-        link: "https://dr.vnopenai.org/"
+        link: "https://dr.vnopenai.github.io/"
         name: "VN AIDr - Open source medical image processing platform with deep learning"
       - 
         image: "/images/projects/them-dau.png"
